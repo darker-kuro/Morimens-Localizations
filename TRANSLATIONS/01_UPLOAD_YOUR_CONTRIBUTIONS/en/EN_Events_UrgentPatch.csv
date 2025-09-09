@@ -1,0 +1,54 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Character,CN,EN
+Event_7101_Tips3,azGs,s事件_Event_A.csv,8,Event,Tips3,,当前并未拥有症状卡,You are not currently exhibiting any Symptoms.
+Event_7618_Desc,aCic,s事件_Event_A.csv,20,Event,Desc,,你集中精神，幻象如水墨一般散去。你继续向前，却无法彻底清除心头的阴霾。,"You focus, and the illusion dissipates like ink in water. You move forward, but the shadow on your heart remains."
+Event_7510_Desc,aBJg,s事件_Event_A.csv,22,Event,Desc,,你集中精神，幻象如水墨一般散去。你继续向前，却无法彻底清除心头的阴霾。,"You focus, and the illusion dissipates like ink in water. You move forward, but the shadow on your heart remains."
+Event_6858_Tips1,ayBe,s事件_Event_A.csv,23,Event,Tips1,,需要获得「锈蚀钥匙」,"You need to find the ""Rusted Keys""."
+Event_7467_Desc,aBzk,s事件_Event_A.csv,24,Event,Desc,,咔嚓。\n你将钥匙插入锁孔，轻轻把门推开。\n整个开门的过程都无比顺利，让你对接下来的调查又有了信心。,"Click.\nYou insert the key into the lock and gently push the door open.\nThe whole process goes smoothly, boosting your confidence for the investigation ahead."
+Event_57738_Tips3,axNU,s事件_Event_A.csv,51,Event,Tips3,,当前所有唤醒体没有狂气,No Awakeners have Aliemus.
+Event_7586_Desc,aCaI,s事件_Event_A.csv,64,Event,Desc,,拉伊特产，活蹦乱跳的母鸡，美食的诱惑。,"The Rye Specialty: Lively Hen, a culinary temptation!"
+Event_7283_Desc,aAvE,s事件_Event_A.csv,69,Event,Desc,,一种近水银态的银色物质，由融蚀黏液中提炼而出，蕴含强大精神力，主要用于在仪式中链接更多唤醒体。,"A near-mercury-like silver substance, refined from D-Slime, containing strong mental power, used to link more Awakeners in rituals."
+Event_7172_Desc,azWI,s事件_Event_A.csv,72,Event,Desc,,一种近水银态的银色物质，由融蚀黏液中提炼而出，蕴含强大精神力，主要用于在仪式中链接更多唤醒体。,"A near-mercury-like silver substance, refined from D-Slime, containing strong mental power, used to link more Awakeners in rituals."
+Event_7053_Desc,azuY,s事件_Event_A.csv,73,Event,Desc,,一种近水银态的银色物质，由融蚀黏液中提炼而出，蕴含强大精神力，主要用于在仪式中链接更多唤醒体。,"A near-mercury-like silver substance, refined from D-Slime, containing strong mental power, used to link more Awakeners in rituals."
+Event_6885_Desc,ayHo,s事件_Event_A.csv,74,Event,Desc,,一种近水银态的银色物质，由融蚀黏液中提炼而出，蕴含强大精神力，主要用于在仪式中链接更多唤醒体。,"A near-mercury-like silver substance, refined from D-Slime, containing strong mental power, used to link more Awakeners in rituals A near-mercury-like silver substance, refined from D-Slime, containing strong mental power, used to link more Awakeners in rituals."
+Event_7048_Desc,aztQ,s事件_Event_A.csv,103,Event,Desc,,「你知道吗？」在拉蒙娜搜寻神秘人的身影时，一个声音突然响起，像是谁在悄声议论，「你知道那个事儿吗？那个大事儿？」,"""Did you know?"" As Ramona searched for the mysterious figure, a voice suddenly whispered, ""Do you know about that matter? That terribly important matter?"""
+Event_7298_Desc,aAzc,s事件_Event_A.csv,115,Event,Desc,,你将一根手指抵在唇角，示意自己将为此事噤声。\n黑猫幻影般一闪而过，在你脚边留下了黑亮的馈赠。,"You place a finger to your lips, signaling silence.\nThe black cat flashes by like a phantasm, leaving a dark gift at your feet."
+Event_6914_Desc,ayNY,s事件_Event_A.csv,124,Event,Desc,,猫满意地点点头，随即化作一道阴影原地消散，留下了几个黑色的圆形物件。,"The cat nodded in satisfaction, then vanished into a shadow, leaving behind several black circular objects."
+Event_6967_Desc,azak,s事件_Event_A.csv,125,Event,Desc,,猫满意地点点头，随即化作一道阴影原地消散，留下了几个黑色的圆形物件。,"The cat nodded in satisfaction, then vanished into a shadow, leaving behind several black circular objects."
+Event_7497_Desc,aBGg,s事件_Event_A.csv,1065,Event,Desc,,空空荡荡的环境中回荡着私语。\n「噢，就是那个傻子，念叨着要么死要么赢的知名赌徒，废人一个，你可离他远点。」\n身形颓丧瘦削的虚影向你抛来几枚硬币，金属撞击的脆响漏进你掌心。\n「来一局。」,"Whispers echo in the empty space.\n""Oh, that fool who keeps muttering 'win or die,' the infamous gambler. You'd better stay away from him.""\nA thin, slumped figure tosses a few coins to you, the metallic clink landing in your palm.\n""Let's play a round."""
+Event_24540_Desc,awyU,s事件_Event_A.csv,1097,Event,Desc,,「她是你坚实的护盾，是你手中的利剑。\n她是你的伙伴，你的搭档，你信赖的朋友——不论她变成什么样。」,"""She is your sturdy shield, the sword in your hand. \nShe is your partner, your companion, your trusted friend—no matter how she changes."""
+Event_80624_Name,bsqA,s事件_Event_A.csv,1185,Event,Name,, 尼格尔曼,Spawn of the Shadows
+Event_80624_Desc,bsqz,s事件_Event_A.csv,1185,Event,Desc,,「嘿！你，禁止向前。」\n黑猫们突然跳出，阻拦你继续前行。\n它们优雅地舔着爪子，神态桀骜又骄傲。\n「前方充满了危险，可不是你这种弱小的人类可以探索的。」\n你表达了必须向前的决心，这时领头黑猫的竖瞳转了转，展露玩弄猎物的残酷天性。「那就向我们展示你的决心吧。」,"""Hey! You, stop right there.""\nBlack cats suddenly jump out, blocking your way forward.\nThey elegantly lick their paws, their demeanor arrogant and proud.\n""The path ahead is full of dangers, not something a weak human like you can explore.""\nYou express your determination to move forward, and in that moment, the vertical pupils of the clowder's leader shifted, revealing a cruel intention of playing with its prey. ""Then show us your determination."""
+Event_80631_Name,bssg,s事件_Event_A.csv,1186,Event,Name,, 尼格尔曼,Spawn of the Shadows
+Event_80631_Desc,bssf,s事件_Event_A.csv,1186,Event,Desc,,「呵，渺小的人类，你做出了错误的选择。」\n黑猫们冷酷地望着你，骤然突袭。\n「你必须付出代价——当然，我们也尊敬强者。」,"""Heh, insignificant human, you made the wrong choice.""\nThe black cats stare coldly at you, then suddenly retaliate.\n""Though we have respect for the brave, you must pay the price."""
+Event_80614_Name,bsok,s事件_Event_A.csv,1187,Event,Name,, 尼格尔曼,Spawn of the Shadows
+Event_80614_Desc,bsoj,s事件_Event_A.csv,1187,Event,Desc,,「闭嘴闭嘴，难听死了。」\n黑猫人性化地捂着耳朵。\n「人类，你的猫语真得很差，说得什么乱七八糟的话！」\n虽然嘴上这么说着，但黑猫的神色却平和下来。\n「看在你喵喵叫取悦我的份上，送你个礼物吧。」\n「至于礼物的内容，取决于你的运气。」,"""Shut up, shut up, you sound terrible.""\nThe black cat covers its ears with its paws in a uniquely human manner.\n""Human, your cat-speak is very poor, what you're saying makes no sense!""\nThough it says this, the expression of the black cat softens.\n""Given that you meowed to please me, I shall leave you with a gift.""\n""As for the content of the gift, it depends on your luck."""
+Event_80623_Name,bsqo,s事件_Event_A.csv,1188,Event,Name,, 尼格尔曼,Spawn of the Shadows
+Event_80623_Desc,bsqn,s事件_Event_A.csv,1188,Event,Desc,,「你、你……」\n「哼，手法还不赖嘛，这次就算你过关。下次可没那么容易！」\n黑猫一跃，轻巧地跑远了。,"""You, you......""\n""Hmph, not bad with the technique. This time, you pass. Next time won't be so easy!""\nThe black cat leaps away nimbly, and the others disperse to follow suit."
+Event_6904_Desc,ayLI,s事件_Event_A.csv,1263,Event,Desc,,「你」邀请着你。\n在螺旋的深处，过去与未来的「你」向你送上来了来自不同维度的「赠礼」。,"""You"" invites you deeper.\nIn the depths of the spiral, the past and future ""you"" send you ""gifts"" from different dimensions."
+Event_6976_Desc,azco,s事件_Event_A.csv,1264,Event,Desc,,「你」邀请着你。\n在螺旋的深处，过去与未来的「你」向你送上来了来自不同维度的「赠礼」。,"""You"" invites you deeper.\nIn the depths of the spiral, the past and future ""you"" send you ""gifts"" from different dimensions."
+Event_7606_Desc,aCfo,s事件_Event_A.csv,1265,Event,Desc,,「你」邀请着你。\n在螺旋的深处，过去与未来的「你」向你送上来了来自不同维度的「赠礼」。,"""You"" invites you deeper.\nIn the depths of the spiral, the past and future ""you"" send you ""gifts"" from different dimensions."
+Event_7331_Desc,aAGI,s事件_Event_A.csv,1266,Event,Desc,,「你」邀请着你。\n在螺旋的深处，过去与未来的「你」向你送上来了来自不同维度的「赠礼」。,"""You"" invites you deeper.\nIn the depths of the spiral, the past and future ""you"" send you ""gifts"" from different dimensions."
+Event_6866_Desc,ayCU,s事件_Event_A.csv,1286,Event,Desc,,你低头挑拣着石膏碎块，将她一块块拼补回去，她躯体的一部分在你手下渐渐成形。,"You lower your head, picking up fragments of plaster, piecing her back together bit by bit. Part of her body gradually takes shape under your hands."
+Event_6867_Name,ayDh,s事件_Event_A.csv,1348,Event,Name,,锈蚀钥匙,Rusted Key
+Event_7260_Name,aAqp,s事件_Event_A.csv,1349,Event,Name,,锈蚀门扉,Rusted Door
+Event_7260_Tips1,aAqq,s事件_Event_A.csv,1349,Event,Tips1,,需要获得「锈蚀钥匙」,"You need to find the ""Rusted Key""."
+Event_7047_Desc,aztE,s事件_Event_A.csv,1370,Event,Desc,,一团黑泥出现在你面前，颤巍巍递来一份文件。\n「我现在不方便出面......不过您可以了解一下我们的定制服务......」\n女声自黑泥胸腔内飘出，略显慌乱，似乎正在躲避什么东西。\n「仙女赐福根据会员档次生效，保证童叟无欺。」\n「签，快签！」,"A blob of black goo appears before you, trembling as it hands over a document.\n""I can't come out right now... but you can check out our custom services...""\nA woman's voice drifts from within the goo's chest, slightly panicked, as if hiding from something.\n""Faerie Blessings are activated based on membership level, guaranteed fair for all.""\n""Sign, quickly!"""
+Event_7156_Desc,azSY,s事件_Event_A.csv,1371,Event,Desc,,「您真是个大方的好人，祝您今天、明天、后天都心想事成。」\n「顺便说一句，我们这是一锤子买卖......」\n仙女满意地咂咂嘴，依依不舍和您道了个别。,"""You're such a generous person. I wish you all your wishes today, tomorrow, and the day after.""\n""By the way, this is a one-time deal...""\nThe faerie smacked her lips in satisfaction and reluctantly said goodbye to you."
+Event_35103_Tips3,awAE,s事件_Event_A.csv,1392,Event,Tips3,,当前并未拥有症状卡,You are not currently exhibiting any Symptoms.
+Event_38700_Tips3,awVQ,s事件_Event_A.csv,1401,Event,Tips3,,当前并未拥有症状卡,You are not currently exhibiting any Symptoms.
+Event_44396_Desc,awZU,s事件_Event_A.csv,1415,Event,Desc,,主教取下戒指，摘下胸针。那些象征父神的蓝色宝石被一一放在灵魂手中，主教弯下腰，握住可怜灵魂的双手。\n「拿走我身上的金银，拿走我所有的财物——只要那是你需要的。我有父神的教导便足够生活。」,"The bishop removed his ring and brooch. The blue gems symbolizing the All-Father were placed into the soul's hands one by one. The bishop bent down, holding the poor soul's hands. \n""Take my gold and silver, take all my possessions—if that's what you need. The teachings of the All-Father are enough for me to live by."""
+Event_47992_Tips3,axks,s事件_Event_A.csv,1449,Event,Tips3,,当前并未拥有症状卡,You are not currently exhibiting any Symptoms.
+Event_53141_Tips3,axJo,s事件_Event_A.csv,1465,Event,Tips3,,当前并未拥有症状卡,You are not currently exhibiting any Symptoms.
+Event_53147_Tips1,axJW,s事件_Event_A.csv,1469,Event,Tips1,,当前并未拥有症状卡,You are not currently exhibiting any Symptoms.
+Event_56149_Tips1,axNi,s事件_Event_A.csv,1479,Event,Tips1,,无可升级的「意象」,That Imagery can't be upgraded.
+Event_55783_Tips1,axKG,s事件_Event_A.csv,1481,Event,Tips1,,「意象」数量不足 3 张，不可合成,Insufficient Imagery. At least 3 are required.
+Event_56147_Tips1,axMK,s事件_Event_A.csv,1483,Event,Tips1,,「意象」数量不足 3 张，不可合成,Insufficient Imagery. At least 3 are required.
+Event_56151_Tips1,axNG,s事件_Event_A.csv,1485,Event,Tips1,,当前无「意象」卡,Insufficient Imagery
+Event_59529_ChoiceDesc1,axPf,s事件_Event_A.csv,1490,Event,ChoiceDesc1,,选择一张卡牌领悟繁育之理刻印。,Engrave the Lex Genis Orison on a card.
+Event_59528_ChoiceDesc1,axOT,s事件_Event_A.csv,1491,Event,ChoiceDesc1,,选择一张卡牌领悟欢愉之理刻印。,Engrave the Lex Volis Orison on a card.
+Event_59527_ChoiceDesc1,axOH,s事件_Event_A.csv,1492,Event,ChoiceDesc1,,选择一张卡牌领悟智识之理刻印。,Engrave the Lex Nous Orison on a card.
+Event_65403_Tips3,aypg,s事件_Event_A.csv,1501,Event,Tips3,,科考团人数不足,Too Few Expedition Members
+Event_6981_Desc,azes,s事件_Event_A.csv,25,Event,Desc,,一串锈迹斑斑的钥匙。可用于开启门锁。,A string of rusty keys. Can be used to unlock doors.
+RelicConfig_13829_Name,aJlL,z造物_RelicConfig_A.csv,9,RelicConfig,Name,,锈蚀钥匙,Rusted Key
+RelicConfig_13829_Desc,aJlK,z造物_RelicConfig_A.csv,9,RelicConfig,Desc,,一串锈迹斑斑的钥匙。可用于开启门锁。,A string of rusty keys. Can be used to unlock doors.
+RelicConfig_13829_BattleDesc,aJlJ,z造物_RelicConfig_A.csv,9,RelicConfig,BattleDesc,,一串锈迹斑斑的钥匙。可用于开启门锁。,A string of rusty keys. Can be used to unlock doors.
