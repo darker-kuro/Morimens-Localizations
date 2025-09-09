@@ -1,5 +1,0 @@
-﻿Key,ShortKey,Source,Row,Module,Field,Character,CN,EN
-Event_6981_Desc,azes,s事件_Event_A.csv,25,Event,Desc,,一串锈迹斑斑的钥匙。可用于开启门锁。,A string of rusty keys. Can be used to unlock doors.
-RelicConfig_13829_Name,aJlL,z造物_RelicConfig_A.csv,9,RelicConfig,Name,,锈蚀钥匙,Rusted Key
-RelicConfig_13829_Desc,aJlK,z造物_RelicConfig_A.csv,9,RelicConfig,Desc,,一串锈迹斑斑的钥匙。可用于开启门锁。,A string of rusty keys. Can be used to unlock doors.
-RelicConfig_13829_BattleDesc,aJlJ,z造物_RelicConfig_A.csv,9,RelicConfig,BattleDesc,,一串锈迹斑斑的钥匙。可用于开启门锁。,A string of rusty keys. Can be used to unlock doors.
