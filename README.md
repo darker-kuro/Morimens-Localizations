@@ -127,24 +127,35 @@ If you are not part of the volunteer project yet, or just want to ask about Mori
 This Credits list will also show up in-game. You can find it in the Community - Special Thanks tab!
 We will periodically update the Credits list to reflect latest volunteer contributions.
 Before each version update, @艾絲Ace will double check with all volunteers & moderators in the Volunteers Discord to make sure no one is left out.
+(names arranged in alphabetical order)
+## English (EN): 
+Arkaether, ghostboots, Goz, lyaistra, omnichromia, SophieChoice
 
-### English
-拉娅妮丝
-Goz
-Arkaether
-Sophie
-Omnichromia
+## French (FR): 
+Basile, Goz, Jun, Loki Locstar, nauravale, Noah
 
-### German
-### French
-### Portuguese
-Marcos
-### Japanese
-### Russian
-### Korean
-### Indonesian
-Adelle
-### Vietnamese
-### Thai
+## German (DE): 
+Larvani, Strandiel
+
+## Indonesian (ID): 
+Adelle, Rosemary, Yunita
+
+## Japanese (JP): 
+Alza
+
+## Korean (KR): 
+LavenderJuly, Nero
+
+## Portuguese (PT): 
+MarcosWG
+
+## Russian (RU): 
+Bervernis, Elandriah, Kainoxis, Solgazm, SuverNai, TheRiddleOfCards
+
+## Spanish (ES): 
+Miguel Ángel
+
+## Thai (TH): 
+darkerkuro
 
 
