@@ -57,7 +57,9 @@ Before making a Pull Request, please make sure your GitHub name is the same as t
 
 2. Contribute in small chunks rather than in one big update, this way it's easier to collaborate and merge the efforts from different people.
 
-3. It is recommended to check out the [existing Term Base and Style Guide](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m) first.
+3. When you submit files, please make sure to format them as csv files in UTF-8 coding.
+
+4. It is recommended to check out the [existing Term Base and Style Guide](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m) first.
    
 ### The Source Files
 
