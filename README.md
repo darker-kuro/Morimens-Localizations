@@ -130,7 +130,7 @@ We will periodically update the Credits list to reflect latest volunteer contrib
 Before each version update, @艾絲Ace will double check with all volunteers & moderators in the Volunteers Discord to make sure no one is left out.
 (names arranged in alphabetical order)
 ## English (EN): 
-Arkaether, ghostboots, Goz, lyaistra, omnichromia, SophieChoice
+Arkaether, Dredge, ghostboots, Goz, lyaistra, omnichromia, SophieChoice
 
 ## French (FR): 
 Basile, Goz, Jun, Loki Locstar, nauravale, Noah
